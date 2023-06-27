@@ -1,0 +1,23 @@
+{
+  "meta_contact": "Contact page",
+  "sub_title": "A perfect combination of",
+  "hero_title": "comfort & practicality",
+  "adress_title": "Address:",
+  "phone_title": "Phone:",
+  "email_title": "Email",
+  "contact_form_title": "Check availability",
+  "from": "From:",
+  "to": "To:",
+  "name_label": "Your name",
+  "email_label": "Your email",
+  "msg_label": "Your message",
+  "phone_label": "Your Phone",
+  "submit_btn": "Send",
+  "room_label": "Number of rooms",
+  "bad_label": "Number of beds (1-20)",
+  "bad_option_one": "One bed",
+  "bad_option_two": "Two beds",
+  "bad_option_three": "Three beds",
+  "msg_sent": "Message has been sent!",
+  "msg_loading": "The message is being sent..."
+}

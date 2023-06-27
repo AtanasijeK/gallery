@@ -1,0 +1,23 @@
+{
+  "meta_contact": "Kontakt strana",
+  "sub_title": "Savršena kombinacija",
+  "hero_title": "udobnosti i praktičnosti",
+  "adress_title": "Adresa:",
+  "phone_title": "Broj telefona:",
+  "email_title": "Email",
+  "contact_form_title": "Proverite dostupnost",
+  "from": "Od",
+  "to": "Do",
+  "name_label": "Vaše ime",
+  "email_label": "Vaš email",
+  "msg_label": "Vaša poruka",
+  "phone_label": "Vaš broj",
+  "submit_btn": "Pošalji",
+  "room_label": "Broj soba",
+  "bad_label": "Broj kreveta (1-20)",
+  "bad_option_one": "Jednokrevetna",
+  "bad_option_two": "Dvokrevetna",
+  "bad_option_three": "Trokrevetna",
+  "msg_sent": "Poruka je poslata!",
+  "msg_loading": "Poruka se šalje..."
+}
